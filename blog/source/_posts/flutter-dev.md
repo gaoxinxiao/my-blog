@@ -5,7 +5,6 @@ tags: flutter
 ---
 1、第一个flutter应用根据官网api模仿了一个登录
 
-![](http://image.gxx365.com/qw.jpeg)
 
 <!-- more --> 
 ## 先说一下写flutter 和写h5的体会吧 
